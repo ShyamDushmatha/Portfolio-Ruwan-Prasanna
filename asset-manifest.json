@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Ruwan-Prasanna/static/css/main.b1020bed.css",
-    "main.js": "/Portfolio-Ruwan-Prasanna/static/js/main.c560749d.js",
+    "main.js": "/Portfolio-Ruwan-Prasanna/static/js/main.4f84f7bd.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio-Ruwan-Prasanna/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio-Ruwan-Prasanna/static/js/787.1ed0c42c.chunk.js",
     "static/media/Video2.mp4": "/Portfolio-Ruwan-Prasanna/static/media/Video2.b0f6c3624202bcda252a.mp4",
@@ -45,12 +45,12 @@
     "static/media/pre.svg": "/Portfolio-Ruwan-Prasanna/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-Ruwan-Prasanna/index.html",
     "main.b1020bed.css.map": "/Portfolio-Ruwan-Prasanna/static/css/main.b1020bed.css.map",
-    "main.c560749d.js.map": "/Portfolio-Ruwan-Prasanna/static/js/main.c560749d.js.map",
+    "main.4f84f7bd.js.map": "/Portfolio-Ruwan-Prasanna/static/js/main.4f84f7bd.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio-Ruwan-Prasanna/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio-Ruwan-Prasanna/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1020bed.css",
-    "static/js/main.c560749d.js"
+    "static/js/main.4f84f7bd.js"
   ]
 }
