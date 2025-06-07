@@ -31,9 +31,6 @@ function Home2() {
               leading creative teams to deliver innovative
               brand solutions.
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
             </p>
           </Col>
           <Col md={4} className="myAvtar">
