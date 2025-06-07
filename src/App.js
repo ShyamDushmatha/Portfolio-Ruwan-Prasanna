@@ -35,8 +35,8 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Routes>
-          <Route path="/Portfolio-Ruwan-Prasanna/" element={<Home />} />
-          <Route path="/Portfolio-Ruwan-Prasanna/project" element={<Projects />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/"/>} />
