@@ -10,7 +10,8 @@ import {
   BrowserRouter as Router,
   Route,
   Routes,
-  Navigate
+  Navigate,
+  useLocation
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
@@ -35,11 +36,13 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Routes>
+          <Route path="/" element={<Navigate to="/Portfolio-Ruwan-Prasanna/" />} />
           <Route path="/Portfolio-Ruwan-Prasanna/" element={<Home />} />
           <Route path="/Portfolio-Ruwan-Prasanna/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
-          <Route path="*" element={<Navigate to="/"/>} />
+          {/* Redirect all unknown routes to default */}
+          <Route path="*" element={<Navigate to="/Portfolio-Ruwan-Prasanna/" />} />
         </Routes>
       </div>
     </Router>
