@@ -41,7 +41,6 @@ function App() {
           <Route path="/Portfolio-Ruwan-Prasanna/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
-          {/* Redirect all unknown routes to default */}
           <Route path="*" element={<Navigate to="/Portfolio-Ruwan-Prasanna/" />} />
         </Routes>
       </div>
